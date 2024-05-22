@@ -1,0 +1,76 @@
+Id,    Item,    Price
+1,*** VEG ***,null
+2,*** STARTERS *** ,
+3,French Fries,90
+4,Veg Manchurian ,120
+5,Gobi Manchurian,120
+6,Babycorn 65,150
+7,Mushroom 65,150
+8,*** Rice items and Noodles ***,
+9,Veg Biryani,120
+10,Paneer Biryani,190
+11,Mushroom Biryani,190
+12,Veg fried rice,110
+13,Paneer Fried rice,120
+14,Mushroom Fried rice,130
+15,Gobi fried rice,130
+16,Veg Noodles,100
+17,Gobi Noodles,100
+18,*** Curry Items ***,
+19,Aloo Gobi Masala,130
+20,Mushroom Masala,160
+21,Paneer Butter Masala,180
+22,Green Peas Masala,120
+23,Aloo Jeera Fry,100
+24,Dhal Makhani,110
+25,*** Non Veg  ***,
+26,*** STARTERS *** ,
+27,Chicken Fry,150
+28,Chilli Chicken,200
+29,Tandoori Chicken,240
+30,Chicken Lollypop(6 pcs),190
+31,Mutton Bone fry,250
+32,Fish Fry,200
+33,Prawns Fry,230
+34,Chilli Prawns,320
+35,Apollo Fish,300
+36,Prawns Salt and Pepper,310
+37,*** Rice items and Noodles ***,
+38,Chicken Dum Biryani,200
+39,Chicken Fry piece Biryani,220
+40,Egg Biryani,130
+41,Gongura Mutton Biryani,310
+42,Gongura Prawn Biryani,350
+43,Chicken Fried rice,140
+44,Egg Fried rice,100
+45,Chicken Noodles,150
+46,Egg Noodles,120
+47,Mix Non veg Noodles,200
+48,*** Curry Items ***,
+49,Butter Chicken Masala,190
+50,Gongura Chicken Curry,210
+51,Mutton  Bone Curry,280
+52,Gongura Mutton Curry,290
+53,Chepala Pulusu,310
+54,Prawns Masala,330
+55,Egg Masala,120
+56,Egg Fry,110
+57,*** Beverages ***,
+58,Water Bottle,40
+59,Lime Soda,50
+60,Butter Milk,35
+61,Thumbsup,60
+62,Sprite,50
+63,Limca,40
+64,maaza,45
+65,*** Desserts ***,
+66,Kulfi,90
+67,Vanilla Ice Cream,120
+68,Butterscotch Ice Cream,110
+69,Strawberry Ice Cream,110
+70,Chocolate Ice Cream,150
+71,***Special Items***,
+72,Gila Vada,120
+73,Amaravati Chicken,290
+74,Ulavacharu Biryani,310
+75,Naatu kodi pulusu,320
